@@ -1,0 +1,14 @@
+C:\Users\Guilherme\Desktop\Projeto Loja\Sistema\SistemaVendasLoja\SistemaVendasLoja\bin\Debug\SistemaVendasLoja.exe.config
+C:\Users\Guilherme\Desktop\Projeto Loja\Sistema\SistemaVendasLoja\SistemaVendasLoja\bin\Debug\SistemaVendasLoja.exe
+C:\Users\Guilherme\Desktop\Projeto Loja\Sistema\SistemaVendasLoja\SistemaVendasLoja\bin\Debug\SistemaVendasLoja.pdb
+C:\Users\Guilherme\Desktop\Projeto Loja\Sistema\SistemaVendasLoja\SistemaVendasLoja\obj\Debug\SistemaVendasLoja.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Desktop\Projeto Loja\Sistema\SistemaVendasLoja\SistemaVendasLoja\obj\Debug\SistemaVendasLoja.Properties.Resources.resources
+C:\Users\Guilherme\Desktop\Projeto Loja\Sistema\SistemaVendasLoja\SistemaVendasLoja\obj\Debug\SistemaVendasLoja.csproj.GenerateResource.Cache
+C:\Users\Guilherme\Desktop\Projeto Loja\Sistema\SistemaVendasLoja\SistemaVendasLoja\obj\Debug\SistemaVendasLoja.exe
+C:\Users\Guilherme\Desktop\Projeto Loja\Sistema\SistemaVendasLoja\SistemaVendasLoja\obj\Debug\SistemaVendasLoja.pdb
+C:\Users\Guilherme\Desktop\Projeto Loja\Sistema\SistemaVendasLoja\SistemaVendasLoja\obj\Debug\SistemaVendasLoja.Frm_Produto.resources
+C:\Users\Guilherme\Desktop\Projeto Loja\Sistema\SistemaVendasLoja\SistemaVendasLoja\obj\Debug\SistemaVendasLoja.Frm_Principal.resources
+C:\Users\Guilherme\Desktop\Projeto Loja\Sistema\SistemaVendasLoja\SistemaVendasLoja\obj\Debug\SistemaVendasLoja.Frm_Clientepf.resources
+C:\Users\Guilherme\Desktop\Projeto Loja\Sistema\SistemaVendasLoja\SistemaVendasLoja\obj\Debug\SistemaVendasLoja.Frm_Clientepj.resources
+C:\Users\Guilherme\Desktop\Projeto Loja\Sistema\SistemaVendasLoja\SistemaVendasLoja\obj\Debug\SistemaVendasLoja.Frm_Usuario.resources
+C:\Users\Guilherme\Desktop\Projeto Loja\Sistema\SistemaVendasLoja\SistemaVendasLoja\obj\Debug\SistemaVendasLoja.Pesquisa.resources
